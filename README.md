@@ -13,9 +13,11 @@ Introducing **Quick Flip**, reimagining the simple act of coin flipping. Leverag
 
 ## Setting It Up
 1. **Deployment**:
-    - Simply clone the repository to experience the 3D coin in action.
+    - Clone the repository.
+    - Run 'npx serve .' on the command line.
+    - Paste local address to browser to run the coin flipper.
 2. **Exploring Three.js**:
     - The integrated Three.js library offers opportunities for those curious about extending or tweaking the 3D aspects of the coin flipper.
 
 ## Developer
-Crafted with ❤️ by [VCodes](https://vina.codes).
+From concept to digital reality 🌱 by [VCodes](https://vina.codes).
